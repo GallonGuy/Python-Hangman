@@ -1,0 +1,50 @@
+Alabama,$85811
+Alaska,$110187
+Arizona,$88226
+Arkansas,$82704
+California,$95193
+Colorado,$104878
+Connecticut,$100401
+Delaware,$99138
+Florida,$70749
+Georgia,$79941
+Hawaii,$107175
+Idaho,$90921
+Illinois,$96920
+Indiana,$90089
+Iowa,$101179
+Kansas,$92937
+Kentucky,$87229
+Louisiana,$93444
+Maine,$93162
+Maryland,$96067
+Massachusetts,$110102
+Michigan,$86872
+Minnesota,$107030
+Mississippi,$98746
+Missouri,$93172
+Montana,$86897
+Nebraska,$94177
+Nevada,$104183
+New Hampshire,$92442
+New Jersey,$115242
+New Mexico,$108288
+New York,$103873
+North Carolina,$90377
+North Dakota,$109342
+Ohio,$104543
+Oklahoma,$91203
+Oregon,$109626
+Pennsylvania,$95164
+Rhode Island,$101539
+South Carolina,$92281
+South Dakota,$103340
+Tennessee,$99816
+Texas,$90181
+Utah,$99079
+Vermont,$101208
+Virginia,$97927
+Washington,$109913
+West Virginia,$73496
+Wisconsin,$112614
+Wyoming,$91159

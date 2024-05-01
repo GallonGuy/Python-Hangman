@@ -1,0 +1,22 @@
+Tuesday, April 9th:
+Brainstorming ideas (featured in brainstorming.txt file).
+Form for lab 13 must be completed.
+
+Wednesday, April 10th:
+Preliminary program idea and scope confirmed and psuedocode begins.
+
+Friday, April 12th:
+Psuedocode and skeleton of program is complete (preliminary inputs, commented functionality of called functions, and locations of called functions).
+Work on functionality of code begins, including expansion of functions
+
+Tuesday, April 16th:
+Most functionality of code is complete (not debugged completely) prior to the beginning of lab to allow for debugging during the lab. Main debugging process begins along with completion of remaining functionality of program
+Form for lab 14 must be completed.
+
+Tuesday, April 23rd:
+Functionality of code is complete with few to no remaining bugs. At this point, expansion of project is discussed with TAs to ascertain remaining work
+Remaining work and presentation/video work begins
+Form for lab 15 must be completed.
+
+Sunday, April 28th:
+Final code and presentation submitted as well as submission to CS111 showcase.

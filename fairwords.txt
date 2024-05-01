@@ -1,0 +1,169 @@
+
+abdicate	equivalent	painstaking
+abolish	erode	pardon
+absurd	erupt	pasture
+accelerate	escalate	patient
+access	establish	pedestrian
+accommodate	evade	penetrate
+accomplish	evident	perish
+accurate	exasperate	petrify
+accustom	excavate	pledge
+afflict	exert	population
+aggressive	expand	portrait
+agony	expel	predict
+alert	experiment	prelude
+altitude	export	premature
+ample	extinct	preserve
+ancestor	extract	previous
+animated	exult	prey
+anxious	famine	primitive
+approximate	fascinate	proceed
+aroma	feeble	proclaim
+ascend	ferocious	prohibit
+assemble	fertile	prone
+assign	flail	prosper
+associate	flee	protrude
+assume	flimsy	provide
+available	foolhardy	provoke
+avalanche	formal	puny
+banquet	former	purchase
+barren	fracture	pursue
+bask	frigid	reassure
+betray	frivolous	rebel
+beverage	fume	refuge
+bland	gale	reign
+blizzard	gigantic	reluctant
+boisterous	gorge	remote
+bondage	grim	require
+brace	guardian	resemble
+brilliant	hangar	restrict
+brittle	harbor	resume
+budge	harsh	retain
+bungle	harvest	retire
+burden	heroic	revert
+burly	hew	revive
+carcass	hilarious	ridicule
+cargo	hoist	rigid
+carnivore	horizon	riot
+cask	hostile	ripple
+catapult	huddle	rouse
+celebrate	idle	route
+challenge	illuminate	saunter
+character	immense	scald
+cluster	indignant	seldom
+colony	inflict	sensation
+combine	intense	sever
+companion	intercept	significant
+compassion	introduce	slither
+compatible	investigate	sluggish
+compensate	jest	snout
+comply	jostle	soar
+comprehend	jubilation	solitary
+conceal	jubilee	solo
+concept	kin	somber
+confident	liberate	sparse
+conquer	likeness	spectator
+consist	loathe	stall
+consume	lumber	steadfast
+contact	lurch	stimulate
+convalesce	lure	stupendous
+convince	major	subsequent
+course	makeshift	substantial
+crave	maximum	suffocate
+crevice	meager	summit
+cultivate	meddle	superior
+cumbersome	methodical	survive
+decade	mimic	suspend
+decline	minor	taper
+decrease	mirth	task
+dedicate	mischief	taunt
+delicate	molten	teem
+denounce	monstrous	tempest
+dense	moral	terminate
+depart	morsel	terse
+deposit	navigation	thwart
+despair	negotiate	tolerant
+desperate	nonchalant	topple
+destination	nostalgia	transform
+deteriorate	notable	translate
+dictate	numerous	tremor
+disaster	oasis	tropical
+distract	obedient	unwieldy
+distress	obscure	upbringing
+dominate	obsolete	urban
+donate	obstacle	vertical
+dormant	occasion	visible
+drought	oppose	vow
+duration	optimist	voyage
+edible	option	waddle
+elegant	outskirts	wilderness
+employ	overdue	wither
+encounter	overthrow	yearn
+accurate	casserole	enormous	mildew	senator
+apology	centipede	estimate	missile	significant
+applause	chemical	examine	monarch	solemn
+article	commentary	exercise	octopus	specialty
+artificial	condemn	extinct	pharmacy	straightforward
+author	consonant	faucet	piano	strengthen
+bargain	courage	fertilize	population	successful
+beautiful	denomination	guidance	punctuation	tolerant
+cabbage	diamond	headache	routine	tutor
+calories	dynamite	immature	sculpture	velocity
+abrupt	entertain	permit
+achieve	equip	persist
+active	exceed	persuade
+affect	expose	pessimist
+alter	famished	phase
+approach	flexible	prepare
+astound	forbid	project
+attempt	forecast	quaint
+attend	glimpse	recall
+benefit	grace	recite
+burrow	grove	recommend
+calculate	hail	reduce
+cease	hibernate	reject
+cherish	impose	remark
+climate	instant	represent
+column	keen	resist
+complete	lack	respond
+confuse	limb	revise
+contempt	limp	scorch
+contract	mammoth	scurry
+decay	master	seize
+destructive	mature	sensitive
+develop	migrate	severe
+dismay	mock	shallow
+distribute	modest	sufficient
+drowsy	nestle	surround
+eager	observe	tower
+ease	parallel	utter
+eject	paralyze	venture
+embrace	patriot	victim
+afraid	especially	loveable
+almost	everybody	money	think
+also	everything	morning	thought
+always	except	myself	threw
+animals	exciting	never	through
+another	even	night	told
+anyone	finally	once	too
+asked	friendly	outside	trouble
+away	general	own	unhappiness
+become	getting	person	united
+believe	goes	prettier	until
+better	hard	prettiest	upon
+build	heard	probably	vacation
+buy	high	problem	want
+by	hidden	question	watch
+care	hole	ready	
+caught	hopeless	recycle	wear
+clothes		responsibilities	weather	important	
+community	impossible	something	were
+confusion	independent	sometimes	whether
+country		sudden	which
+decided	its	sure	while
+different	journal	terrible	whole
+discover	knew		winner
+does	know	their	
+laughed	there	years
+done	left	these	your
+enough	live	they	
